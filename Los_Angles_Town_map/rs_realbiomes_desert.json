@@ -1,0 +1,193 @@
+{
+    "majorVersion": 2,
+    "minorVersion": 0,
+    "engineName": "Unreal Engine",
+    "engineVersion": "5.4.0",
+    "pluginVersion": "RS2.0-UE5.4-v1",
+    "info": "RealBiomes Desert",
+    "channels": [
+        "CineCameraActor"
+    ],
+    "schema": [
+        {
+            "name": "RealBiomes_Desert_Effects",
+            "parameters": []
+        },
+        {
+            "name": "RealBiomes_Desert_Effects_Winter",
+            "parameters": []
+        },
+        {
+            "name": "SpawnPoints",
+            "parameters": []
+        },
+        {
+            "name": "Splines",
+            "parameters": []
+        },
+        {
+            "name": "Static_Meshes",
+            "parameters": []
+        },
+        {
+            "name": "LosAnglesDesert",
+            "parameters": []
+        },
+        {
+            "name": "RealBiomes_Desert_64sqkm",
+            "parameters": []
+        },
+        {
+            "name": "RealBiomes_Desert_64sqkm_Example",
+            "parameters": []
+        },
+        {
+            "name": "RealBiomes_Desert_64sqkm_Storm",
+            "parameters": []
+        },
+        {
+            "name": "RealBiomes_Desert_64sqkm_Storm_Winter",
+            "parameters": []
+        },
+        {
+            "name": "RealBiomes_Desert_64sqkm_Sunny",
+            "parameters": []
+        },
+        {
+            "name": "RealBiomes_Desert_64sqkm_Sunset",
+            "parameters": []
+        },
+        {
+            "name": "RealBiomes_Desert_64sqkm_Sunset_Winter",
+            "parameters": []
+        },
+        {
+            "name": "RealBiomes_Desert_Overview",
+            "parameters": []
+        },
+        {
+            "name": "RealBiomes_Desert_Template",
+            "parameters": []
+        },
+        {
+            "name": "RealBiomes_Desert_Lighting_Foggy_Winter",
+            "parameters": []
+        },
+        {
+            "name": "RealBiomes_Desert_Lighting_Storm",
+            "parameters": []
+        },
+        {
+            "name": "RealBiomes_Desert_Lighting_Sunny",
+            "parameters": []
+        },
+        {
+            "name": "RealBiomes_Desert_Lighting_Sunset",
+            "parameters": []
+        },
+        {
+            "name": "RealBiomes_Desert_Lighting_Sunset_Winter",
+            "parameters": []
+        },
+        {
+            "name": "Blueprints",
+            "parameters": []
+        },
+        {
+            "name": "Cinematics",
+            "parameters": []
+        },
+        {
+            "name": "Desert_Cliffs_Large_Nanite",
+            "parameters": []
+        },
+        {
+            "name": "Desert_Cliffs_Large_Splines",
+            "parameters": []
+        },
+        {
+            "name": "Desert_Landscape_Foliage",
+            "parameters": []
+        },
+        {
+            "name": "Distance",
+            "parameters": []
+        },
+        {
+            "name": "Performance",
+            "parameters": []
+        },
+        {
+            "name": "Little_Creek",
+            "parameters": []
+        },
+        {
+            "name": "Western_Town_Content",
+            "parameters": []
+        },
+        {
+            "name": "Downtown_DayTime",
+            "parameters": []
+        },
+        {
+            "name": "Downtown_NightTime",
+            "parameters": []
+        },
+        {
+            "name": "Showcase",
+            "parameters": []
+        },
+        {
+            "name": "BuildingCorner_DT_01",
+            "parameters": []
+        },
+        {
+            "name": "BuildingCorner_DT_02",
+            "parameters": []
+        },
+        {
+            "name": "BuildingCorner_DT_03",
+            "parameters": []
+        },
+        {
+            "name": "BuildingCorner_DT_04",
+            "parameters": []
+        },
+        {
+            "name": "BuildingCorner_DT_05",
+            "parameters": []
+        },
+        {
+            "name": "BuildingCorner_DT_06",
+            "parameters": []
+        },
+        {
+            "name": "Building_DT_01",
+            "parameters": []
+        },
+        {
+            "name": "Building_DT_02",
+            "parameters": []
+        },
+        {
+            "name": "Building_DT_03",
+            "parameters": []
+        },
+        {
+            "name": "Building_DT_04",
+            "parameters": []
+        },
+        {
+            "name": "Building_DT_05",
+            "parameters": []
+        },
+        {
+            "name": "Building_DT_06",
+            "parameters": []
+        },
+        {
+            "name": "Building_DT_07",
+            "parameters": []
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+1) Unreal Engine/Epic Games Content
+-Epic Games/Unreal Engine content in our project is used for presentation inside the unreal project.
+-License for the Unreal Content is found here:  https://www.unrealengine.com/en-US/eula/unreal
+-Location of the Unreal Engine Content is in this folder: "Content\RealBiomes\Gameplay\Characters"
+
+
+2) Sounds CC0
+-Various sounds from freesounds.org
+
+3) Sounds Attribution 4.0
+https://freesound.org/people/Diegolar/sounds/411771/ 
+https://freesound.org/people/soundconvincer/sounds/554933/
+
+RealBiomes, 2023, All rights reserved
